@@ -13,7 +13,6 @@ public class Person {
   }
 
   /**
-   * 
    * @param someone 是人名
    * @return 字符串
    */
